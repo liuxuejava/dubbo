@@ -1,0 +1,11 @@
+com\fengneng\mapper\TbContentCategoryMapper.class
+com\fengneng\mapper\TbOrderShippingMapper.class
+com\fengneng\mapper\TbOrderItemMapper.class
+com\fengneng\mapper\TbItemCatMapper.class
+com\fengneng\mapper\TbContentMapper.class
+com\fengneng\mapper\TbItemDescMapper.class
+com\fengneng\mapper\TbItemParamMapper.class
+com\fengneng\mapper\TbItemParamItemMapper.class
+com\fengneng\mapper\TbOrderMapper.class
+com\fengneng\mapper\TbUserMapper.class
+com\fengneng\mapper\TbItemMapper.class
